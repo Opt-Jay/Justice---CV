@@ -19,4 +19,4 @@ This repository includes my most recent CV highlighting my cross-functional expe
 - Demonstrated success in team leadership, data handling, and performance improvement
 - Strong communication, safeguarding, and crisis management awareness
 
-📎 [Download CV (PDF)](./Justice%20Oppong%20Tuah%20cv.pdf)
+📎 [Download CV (PDF)](./JusticeOppongTuahResume_.pdf)
